@@ -1,3 +1,4 @@
+
 'use client';
 
 import { useEffect, useState } from 'react';
@@ -68,7 +69,7 @@ export default function EditBookClient({ id }: { id: string }) {
       body: JSON.stringify(form),
     });
 
-    router.push('/');
+    router.push('/account/admin');
   };
 
   const getCoverFromOpenLibrary = async (title: string, author: string) => {
