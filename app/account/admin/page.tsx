@@ -111,7 +111,7 @@ export default function HomePage() {
           <header className="sticky top-0 z-30 border-b bg-white/80 backdrop-blur dark:border-slate-700 dark:bg-slate-800/80">
             <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 py-3">
               <h1 className="text-2xl font-bold text-blue-700 dark:text-indigo-200">
-                📚 PerLink
+              My Fiance
               </h1>
 
               <div className="flex items-center gap-2">
